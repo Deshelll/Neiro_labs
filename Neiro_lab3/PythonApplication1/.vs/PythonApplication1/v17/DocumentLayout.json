@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\early\\Desktop\\Neiro_lab3\\PythonApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0036A127-A8CD-4295-9476-CDCC0AC6CA12}|PythonApplication1\\PythonApplication1.pyproj|C:\\Users\\early\\Desktop\\Neiro_lab3\\PythonApplication1\\PythonApplication1\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0036A127-A8CD-4295-9476-CDCC0AC6CA12}|PythonApplication1\\PythonApplication1.pyproj|solutionrelative:PythonApplication1\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0036A127-A8CD-4295-9476-CDCC0AC6CA12}|PythonApplication1\\PythonApplication1.pyproj|C:\\Users\\early\\Desktop\\Neiro_lab3\\PythonApplication1\\PythonApplication1\\utils.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0036A127-A8CD-4295-9476-CDCC0AC6CA12}|PythonApplication1\\PythonApplication1.pyproj|solutionrelative:PythonApplication1\\utils.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0036A127-A8CD-4295-9476-CDCC0AC6CA12}|PythonApplication1\\PythonApplication1.pyproj|C:\\Users\\early\\Desktop\\Neiro_lab3\\PythonApplication1\\PythonApplication1\\PythonApplication1.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0036A127-A8CD-4295-9476-CDCC0AC6CA12}|PythonApplication1\\PythonApplication1.pyproj|solutionrelative:PythonApplication1\\PythonApplication1.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "utils.py",
+              "DocumentMoniker": "C:\\Users\\early\\Desktop\\Neiro_lab3\\PythonApplication1\\PythonApplication1\\utils.py",
+              "RelativeDocumentMoniker": "PythonApplication1\\utils.py",
+              "ToolTip": "C:\\Users\\early\\Desktop\\Neiro_lab3\\PythonApplication1\\PythonApplication1\\utils.py",
+              "RelativeToolTip": "PythonApplication1\\utils.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-29T03:44:52.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.py",
+              "DocumentMoniker": "C:\\Users\\early\\Desktop\\Neiro_lab3\\PythonApplication1\\PythonApplication1\\main.py",
+              "RelativeDocumentMoniker": "PythonApplication1\\main.py",
+              "ToolTip": "C:\\Users\\early\\Desktop\\Neiro_lab3\\PythonApplication1\\PythonApplication1\\main.py",
+              "RelativeToolTip": "PythonApplication1\\main.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-29T03:44:18.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PythonApplication1.py",
+              "DocumentMoniker": "C:\\Users\\early\\Desktop\\Neiro_lab3\\PythonApplication1\\PythonApplication1\\PythonApplication1.py",
+              "RelativeDocumentMoniker": "PythonApplication1\\PythonApplication1.py",
+              "ToolTip": "C:\\Users\\early\\Desktop\\Neiro_lab3\\PythonApplication1\\PythonApplication1\\PythonApplication1.py",
+              "RelativeToolTip": "PythonApplication1\\PythonApplication1.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-29T01:39:22.392Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

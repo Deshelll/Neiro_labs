@@ -1,0 +1,244 @@
+{
+  "vehicles": [
+    {
+      "type": "Car",
+      "max_speed": 180,
+      "weight": 1500,
+      "passengers": 4,
+      "fuel_type": 1,
+      "engine_power": 150
+    },
+    {
+      "type": "Motorcycle",
+      "max_speed": 200,
+      "weight": 250,
+      "passengers": 2,
+      "fuel_type": 2,
+      "engine_power": 100
+    },
+    {
+      "type": "Bus",
+      "max_speed": 120,
+      "weight": 5000,
+      "passengers": 40,
+      "fuel_type": 3,
+      "engine_power": 250
+    },
+    {
+      "type": "Truck",
+      "max_speed": 140,
+      "weight": 8000,
+      "passengers": 2,
+      "fuel_type": 3,
+      "engine_power": 300
+    },
+    {
+      "type": "Bicycle",
+      "max_speed": 30,
+      "weight": 15,
+      "passengers": 1,
+      "fuel_type": 6,
+      "engine_power": 0
+    },
+    {
+      "type": "Car",
+      "max_speed": 160,
+      "weight": 1400,
+      "passengers": 5,
+      "fuel_type": 0,
+      "engine_power": 120
+    },
+    {
+      "type": "Car",
+      "max_speed": 190,
+      "weight": 1600,
+      "passengers": 4,
+      "fuel_type": 1,
+      "engine_power": 180
+    },
+    {
+      "type": "Motorcycle",
+      "max_speed": 220,
+      "weight": 200,
+      "passengers": 1,
+      "fuel_type": 0,
+      "engine_power": 110
+    },
+    {
+      "type": "Motorcycle",
+      "max_speed": 210,
+      "weight": 230,
+      "passengers": 2,
+      "fuel_type": 2,
+      "engine_power": 105
+    },
+    {
+      "type": "Bus",
+      "max_speed": 110,
+      "weight": 5100,
+      "passengers": 42,
+      "fuel_type": 3,
+      "engine_power": 260
+    },
+    {
+      "type": "Bus",
+      "max_speed": 130,
+      "weight": 5200,
+      "passengers": 44,
+      "fuel_type": 3,
+      "engine_power": 270
+    },
+    {
+      "type": "Truck",
+      "max_speed": 150,
+      "weight": 7500,
+      "passengers": 3,
+      "fuel_type": 3,
+      "engine_power": 310
+    },
+    {
+      "type": "Truck",
+      "max_speed": 155,
+      "weight": 7700,
+      "passengers": 2,
+      "fuel_type": 3,
+      "engine_power": 320
+    },
+    {
+      "type": "Bicycle",
+      "max_speed": 35,
+      "weight": 14,
+      "passengers": 1,
+      "fuel_type": 6,
+      "engine_power": 0
+    },
+    {
+      "type": "Bicycle",
+      "max_speed": 25,
+      "weight": 18,
+      "passengers": 1,
+      "fuel_type": 6,
+      "engine_power": 0
+    },
+    {
+      "type": "Car",
+      "max_speed": 170,
+      "weight": 1300,
+      "passengers": 4,
+      "fuel_type": 4,
+      "engine_power": 200
+    },
+    {
+      "type": "Car",
+      "max_speed": 175,
+      "weight": 1450,
+      "passengers": 4,
+      "fuel_type": 5,
+      "engine_power": 160
+    },
+    {
+      "type": "Motorcycle",
+      "max_speed": 195,
+      "weight": 240,
+      "passengers": 2,
+      "fuel_type": 1,
+      "engine_power": 90
+    },
+    {
+      "type": "Bus",
+      "max_speed": 115,
+      "weight": 5300,
+      "passengers": 48,
+      "fuel_type": 3,
+      "engine_power": 280
+    },
+    {
+      "type": "Bus",
+      "max_speed": 125,
+      "weight": 4900,
+      "passengers": 38,
+      "fuel_type": 3,
+      "engine_power": 255
+    },
+    {
+      "type": "Truck",
+      "max_speed": 135,
+      "weight": 8100,
+      "passengers": 2,
+      "fuel_type": 3,
+      "engine_power": 330
+    },
+    {
+      "type": "Truck",
+      "max_speed": 145,
+      "weight": 8200,
+      "passengers": 3,
+      "fuel_type": 3,
+      "engine_power": 340
+    },
+    {
+      "type": "Bicycle",
+      "max_speed": 32,
+      "weight": 16,
+      "passengers": 1,
+      "fuel_type": 6,
+      "engine_power": 0
+    },
+    {
+      "type": "Bicycle",
+      "max_speed": 28,
+      "weight": 20,
+      "passengers": 1,
+      "fuel_type": 6,
+      "engine_power": 0
+    },
+    {
+      "type": "Car",
+      "max_speed": 165,
+      "weight": 1500,
+      "passengers": 5,
+      "fuel_type": 0,
+      "engine_power": 140
+    },
+    {
+      "type": "Car",
+      "max_speed": 185,
+      "weight": 1350,
+      "passengers": 4,
+      "fuel_type": 1,
+      "engine_power": 170
+    },
+    {
+      "type": "Motorcycle",
+      "max_speed": 205,
+      "weight": 220,
+      "passengers": 1,
+      "fuel_type": 0,
+      "engine_power": 115
+    },
+    {
+      "type": "Bus",
+      "max_speed": 105,
+      "weight": 5050,
+      "passengers": 45,
+      "fuel_type": 3,
+      "engine_power": 275
+    },
+    {
+      "type": "Truck",
+      "max_speed": 130,
+      "weight": 8000,
+      "passengers": 4,
+      "fuel_type": 3,
+      "engine_power": 350
+    },
+    {
+      "type": "Truck",
+      "max_speed": 120,
+      "weight": 8300,
+      "passengers": 2,
+      "fuel_type": 3,
+      "engine_power": 360
+    }
+  ]
+}

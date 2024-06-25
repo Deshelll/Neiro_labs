@@ -1,0 +1,14 @@
+C:\Users\early\Desktop\Perceptron\Perceptron\bin\Debug\net8.0\Perceptron.exe
+C:\Users\early\Desktop\Perceptron\Perceptron\bin\Debug\net8.0\Perceptron.deps.json
+C:\Users\early\Desktop\Perceptron\Perceptron\bin\Debug\net8.0\Perceptron.runtimeconfig.json
+C:\Users\early\Desktop\Perceptron\Perceptron\bin\Debug\net8.0\Perceptron.dll
+C:\Users\early\Desktop\Perceptron\Perceptron\bin\Debug\net8.0\Perceptron.pdb
+C:\Users\early\Desktop\Perceptron\Perceptron\obj\Debug\net8.0\Perceptron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\early\Desktop\Perceptron\Perceptron\obj\Debug\net8.0\Perceptron.AssemblyInfoInputs.cache
+C:\Users\early\Desktop\Perceptron\Perceptron\obj\Debug\net8.0\Perceptron.AssemblyInfo.cs
+C:\Users\early\Desktop\Perceptron\Perceptron\obj\Debug\net8.0\Perceptron.csproj.CoreCompileInputs.cache
+C:\Users\early\Desktop\Perceptron\Perceptron\obj\Debug\net8.0\Perceptron.dll
+C:\Users\early\Desktop\Perceptron\Perceptron\obj\Debug\net8.0\refint\Perceptron.dll
+C:\Users\early\Desktop\Perceptron\Perceptron\obj\Debug\net8.0\Perceptron.pdb
+C:\Users\early\Desktop\Perceptron\Perceptron\obj\Debug\net8.0\Perceptron.genruntimeconfig.cache
+C:\Users\early\Desktop\Perceptron\Perceptron\obj\Debug\net8.0\ref\Perceptron.dll
